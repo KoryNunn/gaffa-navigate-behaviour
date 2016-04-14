@@ -5,7 +5,7 @@
   "main": "navigate.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KoryNunn/gaffa-navigate-behaviour.git"
+    "url": "git+https://github.com/KoryNunn/gaffa-navigate-behaviour.git"
   },
   "bugs": {
     "url": "https://github.com/KoryNunn/gaffa-navigate-behaviour/issues"
@@ -18,5 +18,10 @@
   "peerDependencies": {
     "gaffa": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/KoryNunn/gaffa-navigate-behaviour#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }
